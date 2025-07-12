@@ -4,8 +4,8 @@ The Supermarket Inventory Management System is a web-based application designed 
 
 Our creative collaboration expands on this idea by integrating an optional Recipe Suggestion Feature that recommends meal ideas based on the available supermarket stock. This brings together the worlds of retail management and culinary creativity—offering users a seamless and engaging experience.
 
-Key Features
-🔑 Base CRUD Operations (Admin Features)
+**Key Features**
+Base CRUD Operations (Admin Features)
 Products: Create, Read, Update, Delete supermarket products.
 
 Categories: Create, Read, Update, Delete product categories (Bakery, Dairy, Produce, etc.).
@@ -20,7 +20,7 @@ Link products to categories (Many-to-Many)
 
 Link products to suppliers (One-to-Many)
 
-User Features
+**User Features**
 Browse product inventory by category.
 
 View items on discount, low in stock, or near expiration.
@@ -28,7 +28,7 @@ View items on discount, low in stock, or near expiration.
 Get recipe suggestions based on available products (Collaboration Feature).
 
 
-Extended Features (MVP Enhancements)
+**Extended Features (MVP Enhancements)**
 Administrator login for secure stock management.
 
 Product search, filters, and sorting options.
